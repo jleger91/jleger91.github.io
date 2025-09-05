@@ -2,11 +2,11 @@
 
 <details>
 <summary>My top programming languages</summary>
-  
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
-|     2| Javascript|
+|     2| JavaScript|
 |     3| C++       |
 
 </details>
