@@ -4,5 +4,6 @@
     <img width="256" src="self.png" alt="Picture of self">
 </p>
 
-CODE REVIEW
+## CODE REVIEW
+
 A code review serves as a quality control mechanism, promotes knowledge sharing among team members, ensures that coding standards are met, strengthens team cohesion, and contributes to a culture of continuous improvement.
