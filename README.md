@@ -21,4 +21,4 @@ The second artifact of the portfolio adds to the Inventory app by creating a sor
 The second artifact of the portfolio adds to the Inventory app by creating a database which stores new items added to the inventory.
 
 ## Professional Self-Assessment
-Motivated and detail-oriented Computer Science graduate from Southern New Hampshire University with extensive hands-on experience in programming, software development, and game design. Proficient in Python, C++, and JavaScript, with a proven track record of completing challenging coding projects both academically and independently. Skilled in collaborative problem-solving, technical documentation, and Agile methodologies. Eager to contribute innovative solutions as a professional programmer.
+My time at Southern New Hampshire University has helped to shape my professional goals and values; I am now prepared to join the workforce in the tech industry and if not then I will continue sharpening my skills. This portfolio is not a complete showcase of my work although it shows my ability to plan and develop industry-standard code.
