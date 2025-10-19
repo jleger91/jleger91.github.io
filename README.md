@@ -1,3 +1,3 @@
 Test
 
-![Picture of self](self.jpg)
+![Picture of self](self.png)
